@@ -9,10 +9,6 @@ Easy to use: Just type in your weight and height.
 
 Fast results: You get your BMI instantly.
 
-Clear categories: The app tells you which category your BMI falls into.
-
-Works everywhere: You can use it on your phone or computer.
-
 # BMI Categories
 Underweight: BMI below 18.5
 
